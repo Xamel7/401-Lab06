@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Phil_s_Library_v._08
 {
-    internal class Book
+    public class Book
     {
+        public string Title;
+        public string Author;
+        public Book(string title, string author)
+        {
+            Title = title;
+            Author = author;
+        }
     }
 }

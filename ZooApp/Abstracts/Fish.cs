@@ -2,7 +2,7 @@
 
 namespace ZooApp.Abstracts
 {
-    abstract class Fish
+    public abstract class Fish : Animal
     {
         int GillSize;
     }

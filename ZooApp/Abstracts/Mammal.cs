@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ZooApp
+namespace ZooApp.Abstracts
 {
-    abstract class Mammal: Animal
+    public abstract class Mammal : Animal
     {
         public string FurColor;
 

@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ZooApp
+namespace ZooApp.Abstracts
 {
-    internal class Bird
+    public abstract class Bird : Animal
     {
         int WingSpan;
     }

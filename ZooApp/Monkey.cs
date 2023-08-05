@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ZooApp.Abstracts;
 
 namespace ZooApp
 {
-    class Monkey : Mammal
+    public abstract class Monkey : Mammal
     {
         public void ClimbTree()
         {

@@ -4,11 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ZooApp.Abstracts;
+using ZooApp.Interfaces;
 
 namespace ZooApp
 {
-    public abstract class Monkey : Mammal
+    public class Monkey : Mammal, IWalker
     {
+        public Monkey()
+        {
+        }
+        public int Legs { get; set; }
+
         public void ClimbTree()
         {
             Console.WriteLine("Climb!!");
@@ -32,7 +38,17 @@ namespace ZooApp
 
         public override void Sleep()
         {
-            Console.WriteLine("*SNORE**SNORE*");
+            Console.WriteLine("rrrrrrrrssspppphhhpssphrrrrr");
+        }
+
+        public virtual void Eat()
+        {
+            Console.WriteLine("A satisftying meal.");
+        }
+
+        public override void Animal_Nation()
+        {
+            throw new NotImplementedException();
         }
 
     }

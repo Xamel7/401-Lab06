@@ -7,5 +7,12 @@ namespace ZooApp.Abstracts
         public string FurColor;
 
         public abstract void Walk();
+
+        public override string AnimalType => "Mammal";
+
+        public void DisplayType()
+        {
+            Console.WriteLine($"This animal is a: {AnimalType}");
+        }
     }
 }

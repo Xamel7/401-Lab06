@@ -7,7 +7,7 @@ using ZooApp.Abstracts;
 
 namespace ZooApp
 {
-    class Rhino : Mammal
+    public class Rhino : Mammal
     {
         public void Charge()
         {
@@ -19,6 +19,25 @@ namespace ZooApp
             Console.WriteLine("Walk on HOOVES");
         }
 
+        public virtual void Eat()
+        {
+            Console.WriteLine("A satisftying meal.");
+        }
+
+        public override void Move()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Animal_Nation()
+        {
+            throw new NotImplementedException();
+        }
+
+        public override void Breathe()
+        {
+            throw new NotImplementedException();
+        }
     }
 
 }

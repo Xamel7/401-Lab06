@@ -1,0 +1,15 @@
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\ZooApp.csproj.AssemblyReference.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\ZooApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\ZooApp.AssemblyInfoInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\ZooApp.AssemblyInfo.cs
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\ZooApp.csproj.CoreCompileInputs.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\bin\Debug\net7.0\ZooApp.exe
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\bin\Debug\net7.0\ZooApp.deps.json
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\bin\Debug\net7.0\ZooApp.runtimeconfig.json
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\bin\Debug\net7.0\ZooApp.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\bin\Debug\net7.0\ZooApp.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\ZooApp.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\refint\ZooApp.dll
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\ZooApp.pdb
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\ZooApp.genruntimeconfig.cache
+C:\Users\Student-16\Documents\GitHub\Dev\401-Lab06\ZooApp\obj\Debug\net7.0\ref\ZooApp.dll

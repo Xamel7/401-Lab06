@@ -13,6 +13,12 @@ namespace ZooApp.Abstracts
             Console.WriteLine("*SNORE**SNORE*");
         }
 
+        public abstract string AnimalType { get; }
+
+        public void DisplayType()
+        {
+            Console.WriteLine($"This animal is a: {AnimalType}");
+        }
         public virtual void Eat()
         {
             Console.WriteLine("A satisfying meal.");
